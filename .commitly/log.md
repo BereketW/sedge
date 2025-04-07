@@ -20,3 +20,4 @@
 - 2025-04-07T19:42:47Z: Add helper methods
 - 2025-04-07T11:20:39Z: Add helper methods
 - 2025-04-07T16:40:33Z: Update dependencies
+- 2025-04-07T19:08:05Z: Update documentation
