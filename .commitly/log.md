@@ -18,3 +18,4 @@
 - 2026-03-31T19:45:31Z: Add helper methods
 - 2026-03-31T08:02:57Z: Fix formatting issues
 - 2025-04-07T19:42:47Z: Add helper methods
+- 2025-04-07T11:20:39Z: Add helper methods
