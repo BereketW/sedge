@@ -12,3 +12,4 @@
 - 2026-03-31T13:54:14Z: Add helper methods
 - 2026-03-31T10:37:04Z: Fix minor issues
 - 2026-03-31T09:07:08Z: Add type annotations
+- 2026-03-31T13:36:55Z: Update README
