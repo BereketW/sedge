@@ -15,3 +15,4 @@
 - 2026-03-31T13:36:55Z: Update README
 - 2026-03-31T13:03:57Z: Fix formatting issues
 - 2026-03-31T12:16:51Z: Update documentation
+- 2026-03-31T19:45:31Z: Add helper methods
