@@ -6,3 +6,4 @@
 - 2026-03-31T09:05:51Z: Add helper methods
 - 2026-03-31T09:09:34Z: Update README
 - 2026-03-31T20:22:29Z: Update project configuration
+- 2026-03-31T15:10:47Z: Update documentation
