@@ -9,3 +9,4 @@
 - 2026-03-31T15:10:47Z: Update documentation
 - 2026-03-31T12:12:03Z: Refactor module structure
 - 2026-03-31T17:59:19Z: Update project configuration
+- 2026-03-31T13:54:14Z: Add helper methods
